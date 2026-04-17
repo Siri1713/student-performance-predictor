@@ -1,0 +1,13 @@
+✅ Dataset loaded successfully!
+   study_hours  attendance  prev_score  result
+0            1          40          30       0
+1            2          50          40       0
+2            3          60          50       0
+3            4          70          60       1
+4            5          80          70       1✅ Dataset loaded successfully!
+   study_hours  attendance  prev_score  result
+0            1          40          30       0
+1            2          50          40       0
+2            3          60          50       0
+3            4          70          60       1
+4            5          80          70       1
